@@ -65,9 +65,12 @@ Vijayawada international airport
 
 # code fencing
 
-> Given the triangle inscribed in an N-sided regular polygon with given side length, formed using any 3 vertices of the polygon, the task is to find the area of this triangle. 
+> Orientation of an ordered triplet of points in the plane can be
+  counterclockwise
+  clockwise
+  collinear
 
-Link to source <https://www.geeksforgeeks.org/program-to-find-area-of-triangle-inscribed-in-n-sided-regular-polygon/?ref=gcse>
+Link to source <https://www.geeksforgeeks.org/orientation-3-ordered-points/?ref=gcse>
 
 ```
 int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
