@@ -52,7 +52,13 @@ Vijayawada international airport
 |Football|UK|90$|
 
 
+---
 
+# Pithy Quotes
+
+> "Looking Good Is The Best Revenge" - *Ivana Trump*
+
+> "The Purpose Of Our Lives Is To Be Happy" - *Parade*
 
 
 
