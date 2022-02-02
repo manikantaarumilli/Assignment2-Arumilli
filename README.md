@@ -18,3 +18,22 @@ Vijayawada international airport
 3. Will find the Restaurant  on the  Main road,  geetha multiplex is right side to it.
 
 
+### I recommend others to taste the below items
+ 
+   * vegetarian
+     
+     * paneer
+     * Mushroom
+     * veg pulao
+    
+   * Non-vegetarain
+    
+      * Bheemavaram Chicken biryani
+      * Mixed non-veg
+      * Prawns
+      * Crab
+
+
+
+
+
