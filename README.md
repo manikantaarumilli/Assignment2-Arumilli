@@ -38,4 +38,22 @@ Vijayawada international airport
 
 
 
+---
+
+# Sports Table
+
+ The following table represents the Sports Activities that someone can lookup on their interest.
+
+|Sport|Location|Cost|    
+|---|---|---|
+|Cricket|Australia|110$|
+|Badminton|USA|1k$|
+|Tennis|india|60$|
+|Football|UK|90$|
+
+
+
+
+
+
 
