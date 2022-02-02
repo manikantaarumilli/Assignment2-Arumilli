@@ -66,9 +66,9 @@ Vijayawada international airport
 # code fencing
 
 > Orientation of an ordered triplet of points in the plane can be
-  counterclockwise
-  clockwise
-  collinear
+  counterclockwise<br>
+  clockwise<br>
+  collinear<br>
 
 Link to source <https://www.geeksforgeeks.org/orientation-3-ordered-points/?ref=gcse>
 
