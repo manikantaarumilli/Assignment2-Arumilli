@@ -61,5 +61,37 @@ Vijayawada international airport
 > "The Purpose Of Our Lives Is To Be Happy" - *Parade*
 
 
+---
+
+# code fencing
+
+> Given the triangle inscribed in an N-sided regular polygon with given side length, formed using any 3 vertices of the polygon, the task is to find the area of this triangle. 
+
+Link to source<https://www.geeksforgeeks.org/program-to-find-area-of-triangle-inscribed-in-n-sided-regular-polygon/?ref=gcse>
+
+```
+int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
+    return cross(p2 - p1, p3 - p2);
+}
+
+double triangle_area(point2d p1, point2d p2, point2d p3) {
+    return abs(signed_area_parallelogram(p1, p2, p3)) / 2.0;
+}
+
+bool clockwise(point2d p1, point2d p2, point2d p3) {
+    return signed_area_parallelogram(p1, p2, p3) < 0;
+}
+
+bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
+    return signed_area_parallelogram(p1, p2, p3) > 0;
+}
+
+```
+
+Link to source code<https://cp-algorithms.com/geometry/oriented-triangle-area.html>
+
+
+
+
 
 
