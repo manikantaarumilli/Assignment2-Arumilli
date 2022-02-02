@@ -65,7 +65,7 @@ Vijayawada international airport
 
 # code fencing
 
-> Orientation of an ordered triplet of points in the plane can be
+> Orientation of an ordered triplet of points in the plane can be<br>
   counterclockwise<br>
   clockwise<br>
   collinear<br>
