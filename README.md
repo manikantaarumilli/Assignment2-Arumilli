@@ -9,6 +9,12 @@ We do have Mall named **Geetha multiplex** right beside it and A movie theatre  
 
 ---
 
+### Directions to reach the food place
 
+Vijayawada international airport
+
+1. Look for the cab after you come out of the airport.
+2. The distance from airport to the Restaurant is almost 120miles, it takes 2hours to reach the         destination.
+3. Will find the Restaurant  on the  Main road,  geetha multiplex is right side to it.
 
 
